@@ -1,0 +1,24 @@
+/* .card-grid {
+  width: 100%;
+  height: 100%;
+  border: 2px solid yellow;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  justify-items: center;
+  gap: 1em 0;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  width: calc(1 / 1.15 * 100%);
+  border: 2px solid black;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-height: auto;
+} */
